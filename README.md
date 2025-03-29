@@ -24,6 +24,11 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
 
 ## Work Done in the 1st Month
 - Understood **bare metal programming basics using STM32**.
+- Sourced **MPU9250 9 axis accelerometer for Rs 590 for Testing with UVCE GA bill**.
+    ![MPU9250](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/mpu9250.jpg)
+- Sourced **STM32F103C8 Microcontroller and STLINK V2 bootloader**.
+  ![stm32](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/stm32.jpg)
+    
 - Connected **STM32 with MPU 9250** to obtain pitch, yaw, and roll for calibration.
   ```c
   #include "Wire.h"
@@ -102,9 +107,11 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
   }
   }
  
-  
+![OUTPUT](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/serialmonitormpu9250.jpg)
 - Purchased **propellers from offline sources**.
+  ![PROPELLOR](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/PROFEELORS.jpg)
 - Sourced **Raspberry Pi 4 for testing**.
+  ![Raspberypi](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/raspberrypi4.jpg)
 - Completed **3D modeling of the chassis**.
 - Identified that the material available in Marvel is weak; **stronger material is needed for 3D printing**.
 
