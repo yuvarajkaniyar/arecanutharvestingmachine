@@ -119,7 +119,7 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
  ## References
 [Youtube resource](https://youtube.com/playlist?list=PL0K4VDicBzshwCpUHzIB6hOLQVkDFHbxC&si=feCqDbxrZ5yR-K9O)
 [Linkedin Inspiration](https://www.linkedin.com/posts/dipanshu-dhote-246aa9331_esp12e-intense-stability-activity-7309827075018813442-WwC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3Z9zcBoqSkrvq9UVeUqWN8_bo1XDrhz9Y)
-[Chassis Model Link](https://a360.co/4h9sC4G)
+[Chassis Model Link](https://a360.co/3FWUw6I)
 
 
 ## Implementation Details
