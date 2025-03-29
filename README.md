@@ -24,6 +24,7 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
 
 ## Work Done in the 1st Month
 - Understood **bare metal programming basics using STM32**.
+- [certification Link](https://www.linkedin.com/posts/yuvaraj-kaniyar_stm32-embeddedsystems-baremetalprogramming-activity-7304115431663931392-RNuB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3Z9zcBoqSkrvq9UVeUqWN8_bo1XDrhz9Y)
 - Sourced **MPU9250 9 axis accelerometer for Rs 590 for Testing with UVCE GA bill**.
     ![MPU9250](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/mpu9250.jpg)
 - Sourced **STM32F103C8 Microcontroller and STLINK V2 bootloader**.
