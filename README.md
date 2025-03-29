@@ -114,6 +114,12 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
   ![Raspberypi](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/raspberrypi4.jpg)
 - Completed **3D modeling of the chassis**.
 - Identified that the material available in Marvel is weak; **stronger material is needed for 3D printing**.
+  
+ ## References
+[Youtube resource](https://youtube.com/playlist?list=PL0K4VDicBzshwCpUHzIB6hOLQVkDFHbxC&si=feCqDbxrZ5yR-K9O)
+[Linkedin Inspiration](https://www.linkedin.com/posts/dipanshu-dhote-246aa9331_esp12e-intense-stability-activity-7309827075018813442-WwC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3Z9zcBoqSkrvq9UVeUqWN8_bo1XDrhz9Y)
+[Chassis Model Link](https://a360.co/4h9sC4G)
+
 
 ## Implementation Details
 **Tools & Resources:**
@@ -129,7 +135,7 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
 4. Test remote control functionality.
 
 ## Challenges & Mitigation
-- **Battery Efficiency** → Develop a wired version for continuous power supply.
+- **Calibration** → Develop a stable version.
 - **Weight Management** → Use lightweight materials.
 - **Detection Accuracy** → Improve with high-quality cameras.
 - **Material Strength for 3D Printing** → Source a stronger material to improve durability.
@@ -160,7 +166,5 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
 - Battery efficiency constraints in wireless mode.
 - Handling dense areca nut clusters may require refinements.
 
-## References
-[Chassis Model Link](https://a360.co/4h9sC4G)
 
 
