@@ -115,6 +115,7 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
   ![Raspberypi](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/raspberrypi4.jpg)
 - Completed **3D modeling of the chassis**.
 - Identified that the material available in Marvel is weak; **stronger material is needed for 3D printing**.
+  ![stm32](https://github.com/yuvarajkaniyar/arecanutharvestingmachine/blob/main/3ddesign.jpg)
   
  ## References
 [Youtube resource](https://youtube.com/playlist?list=PL0K4VDicBzshwCpUHzIB6hOLQVkDFHbxC&si=feCqDbxrZ5yR-K9O)
